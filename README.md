@@ -25,3 +25,5 @@
 <p>
   This app demonstrates my ability to build robust, multilingual Android applications with a clean architecture and smooth integration with third-party components such as interactive maps.
 </p>
+https://github.com/user-attachments/assets/e90cfa51-a42a-4e86-988a-ea8749a70f41
+
