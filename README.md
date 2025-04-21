@@ -25,5 +25,5 @@
 <p>
   This app demonstrates my ability to build robust, multilingual Android applications with a clean architecture and smooth integration with third-party components such as interactive maps.
 </p>
-https://github.com/user-attachments/assets/e90cfa51-a42a-4e86-988a-ea8749a70f41
+<video src="https://github.com/user-attachments/assets/414c1d0b-6be1-40c9-9602-2977eaf562e1" height="80%" width="80%" alt="Ahvaz Man Video"/>
 
