@@ -25,5 +25,11 @@
 <p>
   This app demonstrates my ability to build robust, multilingual Android applications with a clean architecture and smooth integration with third-party components such as interactive maps.
 </p>
+<p>
+  <a href="https://cafebazaar.ir/app/ir.ahvaz.my" target="_blank">
+    👉 View Ahvaz Man on cafebazaar
+  </a>
+</p>
+
 <video src="https://github.com/user-attachments/assets/414c1d0b-6be1-40c9-9602-2977eaf562e1" height="80%" width="80%" alt="Ahvaz Man Video"/>
 
